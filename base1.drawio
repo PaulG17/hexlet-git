@@ -1,1 +1,103 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T12:07:46.531Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" version="15.5.4" etag="vfaP3qEA1UITwcDa4xDO" type="github"><diagram id="xkqxzy6TLY5ZcMS_Mg-g">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-17T12:33:59.841Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="K3jVJw5WiUA8ibgOWCZa" version="15.5.4" type="github">
+  <diagram id="xkqxzy6TLY5ZcMS_Mg-g" name="Page-1">
+    <mxGraphModel dx="1198" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-2" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="500" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-3" value="Цены" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#0000ff;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-2">
+          <mxGeometry x="125" width="125" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-4" value="Контакты" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#0000ff;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-2">
+          <mxGeometry x="250" width="125" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-5" value="Забронировать" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#0000ff;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-2">
+          <mxGeometry x="375" width="125" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-6" value="О нас" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#ffffff;fillColor=#008cff;strokeColor=#008cff;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-2">
+          <mxGeometry width="125" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-7" value="First slide" style="html=1;shadow=0;dashed=0;strokeColor=none;strokeWidth=1;fillColor=#777777;fontColor=#555555;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=40;" vertex="1" parent="1">
+          <mxGeometry x="14" y="180" width="800" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-8" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-7">
+          <mxGeometry x="1" y="0.5" width="7" height="14" relative="1" as="geometry">
+            <mxPoint x="-50" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-9" value="" style="flipH=1;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-7">
+          <mxGeometry y="0.5" width="7" height="14" relative="1" as="geometry">
+            <mxPoint x="43" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-10" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#ffffff;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-7">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="-50" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-11" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#BBBBBB;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-7">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="-15" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-12" value="" style="html=1;shadow=0;strokeColor=none;fillColor=#BBBBBB;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-7">
+          <mxGeometry x="0.5" y="1" width="30" height="4" relative="1" as="geometry">
+            <mxPoint x="20" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;First slide label&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Nulla vitae elit libero, a pharetra augue mollis interdum." style="html=1;shadow=0;strokeColor=none;fillColor=none;resizeWidth=1;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-7">
+          <mxGeometry y="1" width="800" height="60" relative="1" as="geometry">
+            <mxPoint y="-90" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="294" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-15" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-14">
+          <mxGeometry width="294" height="160" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-22" value="Дата заезда" style="html=1;shadow=0;dashed=0;fillColor=#F8F9FA;strokeColor=none;fontSize=16;fontColor=#181819;align=left;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="14" y="100" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-23" value="Дата отъезда" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#181819;align=center;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-22">
+          <mxGeometry width="70" height="40" relative="1" as="geometry">
+            <mxPoint x="226" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-24" value="Количество &#xa;человек" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#7C7C7D;align=center;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-22">
+          <mxGeometry width="50" height="40" relative="1" as="geometry">
+            <mxPoint x="396" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-28" value="найти номер" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fontSize=14;fontColor=#33A64C;strokeColor=#33A64C;fillColor=none;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-22">
+          <mxGeometry x="1" width="241" height="40" relative="1" as="geometry">
+            <mxPoint x="-251" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-30" value="логотип" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;html=1;whiteSpace=wrap;fillColor=#59AFFD;fontColor=#ffffff;align=center;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="60" y="10" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="1">
+          <mxGeometry x="414" y="510" width="294" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-34" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-33">
+          <mxGeometry width="294" height="160" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-36" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Низкие цены&lt;/b&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="1">
+          <mxGeometry x="430" y="830" width="294" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-37" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-36">
+          <mxGeometry width="294" height="160" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="1">
+          <mxGeometry x="70" y="830" width="294" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-39" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-38">
+          <mxGeometry width="294" height="160" relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
