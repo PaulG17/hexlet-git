@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T12:39:50.615Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ZmUJcCpZElHf24F1LUan" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-17T12:44:51.700Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="6RQIRhiXCZXVAsSeV-PJ" version="15.5.4" type="github">
   <diagram id="xkqxzy6TLY5ZcMS_Mg-g" name="Page-1">
-    <mxGraphModel dx="1198" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1198" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,7 +19,7 @@
         <mxCell id="nbr4ma9WqmKvW4sRVEtG-6" value="О нас" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.rrect;rSize=0;fontSize=17;fontColor=#ffffff;fillColor=#008cff;strokeColor=#008cff;" parent="nbr4ma9WqmKvW4sRVEtG-2" vertex="1">
           <mxGeometry width="125" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="nbr4ma9WqmKvW4sRVEtG-7" value="Первый сайт" style="html=1;shadow=0;dashed=0;strokeColor=none;strokeWidth=1;fillColor=#777777;fontColor=#555555;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=40;" parent="1" vertex="1">
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-7" value="Первый слайд" style="html=1;shadow=0;dashed=0;strokeColor=none;strokeWidth=1;fillColor=#777777;fontColor=#555555;whiteSpace=wrap;align=center;verticalAlign=middle;fontStyle=0;fontSize=40;" parent="1" vertex="1">
           <mxGeometry x="14" y="180" width="800" height="300" as="geometry" />
         </mxCell>
         <mxCell id="nbr4ma9WqmKvW4sRVEtG-8" value="" style="html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.ios7.misc.more;strokeColor=#a0a0a0;" parent="nbr4ma9WqmKvW4sRVEtG-7" vertex="1">
