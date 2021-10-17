@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-17T12:33:59.841Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="K3jVJw5WiUA8ibgOWCZa" version="15.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-17T12:36:40.822Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="twrEGWTIWknFpW2xcUgu" version="15.5.4" type="github">
   <diagram id="xkqxzy6TLY5ZcMS_Mg-g" name="Page-1">
     <mxGraphModel dx="1198" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
             <mxPoint y="-90" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nbr4ma9WqmKvW4sRVEtG-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="1">
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-14" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Красота Алтая&lt;/b&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=center;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="1">
           <mxGeometry x="70" y="510" width="294" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nbr4ma9WqmKvW4sRVEtG-15" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-14">
@@ -85,13 +85,13 @@
         <mxCell id="nbr4ma9WqmKvW4sRVEtG-34" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-33">
           <mxGeometry width="294" height="160" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nbr4ma9WqmKvW4sRVEtG-36" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Низкие цены&lt;/b&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="1">
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-36" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Низкие цены&lt;/b&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=center;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="1">
           <mxGeometry x="430" y="830" width="294" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nbr4ma9WqmKvW4sRVEtG-37" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-36">
           <mxGeometry width="294" height="160" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nbr4ma9WqmKvW4sRVEtG-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="1">
+        <mxCell id="nbr4ma9WqmKvW4sRVEtG-38" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;Массовые мероприятия&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=160;" vertex="1" parent="1">
           <mxGeometry x="70" y="830" width="294" height="230" as="geometry" />
         </mxCell>
         <mxCell id="nbr4ma9WqmKvW4sRVEtG-39" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="nbr4ma9WqmKvW4sRVEtG-38">
